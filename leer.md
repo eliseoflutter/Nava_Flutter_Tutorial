@@ -42,3 +42,14 @@ https://create-react-app.dev/docs/integrating-with-an-api-backend
 
 https://symfonycasts.com/screencast/rest/project-routing
 
+
+https://www.youtube.com/c/ProgrammingAddict/playlists
+
+https://www.filledstacks.com/post/building-a-design-system-in-flutter/
+
+https://github.com/FilledStacks
+
+## Nava chida
+
+https://escuelafullstack.com/slides/slide/creando-un-nuevo-proyecto-en-flutter-1161?fullscreen=1
+
