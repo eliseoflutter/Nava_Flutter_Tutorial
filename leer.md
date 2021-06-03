@@ -63,3 +63,5 @@ https://escuelafullstack.com/slides/slide/creando-un-nuevo-proyecto-en-flutter-1
 
 https://github.com/escuelafullstack
 
+https://github.com/marimeli/flutter-course-resources
+
